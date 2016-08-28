@@ -1,5 +1,5 @@
-
-// ??????? ??????. http://www.youtube.com/user/d36073?feature=watch
+//Testing committing
+//http://www.youtube.com/user/d36073?feature=watch
 
 #include <SPI.h>
 #include <MFRC522.h> // thu vien "RFID".
