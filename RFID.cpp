@@ -1,6 +1,6 @@
 //Testing committing
 //http://www.youtube.com/user/d36073?feature=watch
-
+//Testing commit all file
 #include <SPI.h>
 #include <MFRC522.h> // thu vien "RFID".
 const int LED1 = 2; // LED do
